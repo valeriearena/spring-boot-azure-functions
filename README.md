@@ -1,4 +1,4 @@
-# springboot-azure-functions
+# spring-boot-azure-functions
 Spring boot app that integrates with Azure's Cosmo DB and deploys an Azure Functions with an HTTP Trigger.
 
 # Azure Functions: Types of Triggers
